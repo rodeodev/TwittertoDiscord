@@ -9,17 +9,10 @@ let tweets={},apiurls=[],N=[];
 ///////////////////////////  CONFIGURE TWITTER HANDLERS /////////////////////////////////////////////////////
 var THandlers=[
     {
-        name:'WhaleWatch',
-        url:"https://twitter.com/whalewatchio?lang=en",
-        webhook:"",
-        avatar_url:"https://www.sideshow.com/storage/product-images/903429/thanos_marvel_feature.jpg",
-        keywords:"long",
-    },
-    {
-        name:'Karthik',
-        url:"https://twitter.com/Karthikdk72?lang=en",
-        webhook:"",
-        avatar_url:"https://www.sideshow.com/storage/product-images/903429/thanos_marvel_feature.jpg",
+        name:'pauljac3',
+        url:"https://twitter.com/pauljac3_?lang=en",
+        webhook:"https://discordapp.com/api/webhooks/733969241350471732/aZz3y3sJ73rXA_XmCLZZhsKd-h1dkE-aSR-yczp9P8lk_6nRSMhlsB7D8yELJs1KQeo5",
+        avatar_url:"https://pbs.twimg.com/profile_images/1210665836953788417/454hPHSW_400x400.jpg",
         keywords:"*",
     }
 ];
